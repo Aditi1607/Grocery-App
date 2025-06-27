@@ -1,0 +1,29 @@
+{
+  "_comment": "This comment is out of below code. This is for self explanatory. This file is all about the looks of the app in android devices. It defines the app's name, icons, colors, and how it should be displayed when launched from the home screen. Using this approach if you're working with a strict API or validator that disallows unknown fields — which is not the case for browser manifest.json.",
+
+  "short_name": "PERN Store",
+  "name": "PERN Store E-Commerce App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+
+}
+

@@ -1,0 +1,4 @@
+/*    /index.html   200
+
+tells the server to serve index.html for any route — essential for client-side routing in single-page applications (like React apps)
+tells the server to return a 200 OK status (i.e., the request is successful), not a 404

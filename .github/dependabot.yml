@@ -1,0 +1,10 @@
+version: 2 #(version of Dependabot configuration syntax) latest and recommended version
+updates: #This main section defines the updates that Dependabot will manage
+- package-ecosystem: npm #Ecosystem to update, in this case, npm packages(like package.json and package-lock.json)
+  directory: "/" #Location of the package files, here ("/" means)it is at the root of the repository
+  schedule: #Begins the configuration for how often Dependabot checks for updates
+    interval: daily #Frequency of updates, can be daily, weekly, or monthly
+    time: "04:00" #Time of day for the update check, in UTC format
+  open-pull-requests-limit: 5 #Limits the number of open pull requests Dependabot can create at once 
+
+  

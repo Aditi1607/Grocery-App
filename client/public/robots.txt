@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+#it tells the wed crawlers(like googlebot) how to interact with your website
+#first line link isref to the official doc for this file
+# second line means which bots this rule applied to and "*" means on all web crawlers like google, bing, etc.
+#empty disallow means no restriction that is web crawlers can access everything on your site.

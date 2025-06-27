@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url> <loc>https://www.pern-store.netlify.app/</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/products/123</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/cart</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/profile</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/orders</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/orders/456</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/login</loc> </url>
+  <url> <loc>https://www.pern-store.netlify.app/signup</loc> </url>
+</urlset>
