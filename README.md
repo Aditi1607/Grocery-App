@@ -27,7 +27,7 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 Clone the project
 
 ```bash
-  git clone https://github.com/Aditi1607/Grocer-App.git
+  git clone https://github.com/Aditi1607/Grocery-App.git
 ```
 
 Go to the project directory
