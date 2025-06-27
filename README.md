@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/af46234b-6fba-43f2-808f-e2bbe4b2adf1/deploy-status)](https://app.netlify.com/sites/pern-store/deploys)
 [![wakatime](https://wakatime.com/badge/github/dhatGuy/PERN-Store.svg)](https://wakatime.com/badge/github/dhatGuy/PERN-Store)
 
-# PERN STORE
+# Grocery-App
 
 A full-stack e-commerce project built with Postgres, Express, React and Node.
 
