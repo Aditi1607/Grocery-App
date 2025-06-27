@@ -5,7 +5,7 @@
   "dependencies": {
     "concurrently": "^7.6.0",
     "package-name": "^0.1.0",
-    "tailwindcss": "^4.1.10",
+    "tailwindcss": "^4.1.11",
     "uuid": "^11.1.0"
   },
   "scripts": {
