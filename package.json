@@ -6,7 +6,7 @@
     "concurrently": "^7.6.0",
     "package-name": "^0.1.0",
     "tailwindcss": "^4.1.10",
-    "uuid": "^11.1.0"
+    "uuid": "^13.0.0"
   },
   "scripts": {
     "start": "node server",
